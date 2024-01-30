@@ -5,7 +5,7 @@
     <classes>
       <class name="MyTestcases.SignUp">
         <methods>
-          <include name="myFirstTest"/>
+          <include name="addOneRandomItem"/>
           <include name="mySetup"/>
         </methods>
       </class> <!-- MyTestcases.SignUp -->
